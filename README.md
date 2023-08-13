@@ -1,2 +1,2 @@
 # RFEM
- Essential microRNA Identification in Mice based on Rotation Forest and Multiple Feature Fusion
+ A novel model (rotation forest algorithm + multiple features) for identifying essential miRNAs in mice.
